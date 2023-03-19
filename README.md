@@ -1,6 +1,10 @@
 # hello-world
-Hey everyone! My name is Gordon Quach, and I am an Industrial Engineer / Data Analyst within the Defense/Manufacturing industry.
+Hey everyone! My name is Gordon Quach, and I am a skilled IT professional with a background in Industrial Engineering and Data Analysis/Visualization.
 
-I studied Industrial and Systems Engineering (ISE) and minoring in Entrepreneurship and New Venture Growth (ENVG) at Virginia Tech. Currently, I am pursuing a Masters in Systems Engineering at University of Maryland, Baltimore County with a concentration in IT Systems and Data Science. 
+I graduated from Virginia Tech with a degree in Industrial and Systems Engineering, and later pursued a Masters in Systems Engineering at the University of Maryland, Baltimore County, with a concentration in IT Systems and Data Science.
 
-With experiences in consulting, data analysis, data visualization, strategic planning, automation technology implementation, process improvement, and solution architecting, I aim to deliver value to my teams/stakeholders as well as continue in learning more technology/problem solving techniques!
+With a passion for problem-solving, I have honed my skills in data analysis, visualization, and automation technology implementation. My experience in consulting, process improvement, and solution architecting have enabled me to deliver value to my teams and stakeholders.
+
+Currently, I am leveraging my expertise in the IT industry to create innovative solutions that drive business growth and success. I'm always eager to learn and stay up-to-date with the latest technology and industry trends.
+
+Let's connect and explore how I can help your organization reach its goals!
