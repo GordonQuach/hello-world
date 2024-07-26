@@ -1,10 +1,13 @@
 # hello-world
-Hey everyone! My name is Gordon Quach, and I am a skilled IT professional with a background in Industrial Engineering and Data Analysis/Visualization.
 
-I graduated from Virginia Tech with a degree in Industrial and Systems Engineering, and later pursued a Masters in Systems Engineering at the University of Maryland, Baltimore County, with a concentration in IT Systems and Data Science.
+Hi everyone! My name is Gordon, and I'm excited to meet you.
 
-With a passion for problem-solving, I have honed my skills in data analysis, visualization, and automation technology implementation. My experience in consulting, process improvement, and solution architecting have enabled me to deliver value to my teams and stakeholders.
+👨🏻‍💻 I am a driven, energetic professional with a passion for technology and a talent for helping others reach their full potential. Known for being strategic, motivated, process-driven, tech-savvy, and solution-focused, I am an adept leader with a passion for collaboration and mentorship. Specializing in architecting business intelligence solutions, I have a proven track record of delivering insights through data acquisition, data modeling, and dashboard development.
 
-Currently, I am leveraging my expertise in the IT industry to create innovative solutions that drive business growth and success. I'm always eager to learn and stay up-to-date with the latest technology and industry trends.
+📚 I hold a Bachelor of Science in Industrial and Systems Engineering (ISE) from Virginia Tech and am furthering my education across systems engineering & data science. With an active Secret Clearance and Six Sigma Black Belt training, my 2024 goal is to further my skills in applications of AI/ML solutions.
 
-Let's connect and explore how I can help your organization reach its goals!
+📊 With previous experiences in aerospace/defense manufacturing and consulting services, I have a wealth of knowledge in IT project management, business intelligence development, continuous improvement, facilitation, change management, and advanced manufacturing technologies. Committed to personal growth, I actively seek diverse opportunities to expand his skillset and achieve subject matter competency.
+
+👨‍🏫 In my free time, I am an avid mentor and coach, dedicated to helping individuals achieve their career goals. I enjoy 3D printing, cooking, following European football, and volunteering through in academia & STEM initiatives. 
+
+👋 Let's connect! 
